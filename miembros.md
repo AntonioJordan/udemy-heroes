@@ -6,3 +6,4 @@
 * Capitan Marvel 
 * Falcon
 * Thor
+* El nick fury
